@@ -4,4 +4,8 @@ public class Cheer {
     System.out.println("Team Elites FTW");
   }
 
+  private static void printParam(String s){
+    System.out.println(s);
+  }
+
 }
