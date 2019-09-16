@@ -1,6 +1,6 @@
 public class Count {
 
-  public void cunt(){
-    System.out.println("7");
+  public void cunt(int month, int year){
+    System.out.println(year + " , " + month);
   }
 }
