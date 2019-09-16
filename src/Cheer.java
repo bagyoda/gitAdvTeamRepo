@@ -4,8 +4,8 @@ public class Cheer {
     System.out.println("JAVA");
   }
 
-  private static void printParam(String s){
-    System.out.println(s);
+  private static void printParam(String s, String s2){
+    System.out.println(s + s2);
   }
 
 }
