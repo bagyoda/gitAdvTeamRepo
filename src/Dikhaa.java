@@ -1,6 +1,6 @@
 public class Dikhaa {
 
-    public void future() {
-        System.out.println("twins");
+    public void future(String twins) {
+        System.out.println(twins);
     }
 }
